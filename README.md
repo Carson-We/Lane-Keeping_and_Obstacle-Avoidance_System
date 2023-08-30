@@ -76,6 +76,6 @@ For any inquiries or feedback regarding the project, feel free to contact us:
   - Email: carsonw1125@icloud.com
 
 - Mr. Jonathan Tse
-  - Email: [Provide Mr. Jonathan Tse's email address]
+  - Email: 
 
 We appreciate your interest and support in enhancing the Autopilot system to achieve greater reliability and accuracy in lane-keeping and obstacle-avoidance tasks.
